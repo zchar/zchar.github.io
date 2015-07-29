@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://zchar.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://maigugaodi.com
+title: 埋骨高地
+subtitle: 「人生而自由，却无往不在加锁之中」
+author: 古灵
 simple_search: https://www.google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: zchar@mycolorway.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
