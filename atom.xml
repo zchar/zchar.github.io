@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://zchar.github.io/atom.xml" rel="self"/>
-  <link href="http://zchar.github.io/"/>
-  <updated>2015-07-29T09:52:03+08:00</updated>
-  <id>http://zchar.github.io/</id>
+  <title><![CDATA[埋骨高地]]></title>
+  <link href="http://maigugaodi.com/atom.xml" rel="self"/>
+  <link href="http://maigugaodi.com/"/>
+  <updated>2015-07-29T21:27:52+08:00</updated>
+  <id>http://maigugaodi.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[古灵]]></name>
+    <email><![CDATA[zchar@mycolorway.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://zchar.github.io/sitemap.xml 
+Sitemap: http://maigugaodi.com/sitemap.xml 
